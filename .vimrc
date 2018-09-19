@@ -24,6 +24,7 @@ set cul
 set tabstop=4
 set shiftwidth=4
 set nu!
+set ls=2
 colorscheme morning
 
 " allow backspacing over everything in insert mode
